@@ -1,0 +1,888 @@
+Arg.,N.1,Unnamed: 4,TITOLO,BIBLIO,N.INV.,COLORE
+100,37,VOLTAIRE,Trattato Sulla Tolleranza,B1_Centrale,2403,V
+100,42,ILLUMINATI AUGUSTO,Jean Jacques Rousseau,B1_Centrale,3022,V
+100,73,CASANOVA GIACOMO,Pensieri Libertini,B1_Centrale,8739,V
+100,78,HARRIS THOMAS A.,"Io Sono Ok,Tu Sei Ok",B1_Centrale,8675,V
+100,80,MANTOVANI GIUSEPPE,Qualita' (La) Dell'Interazione Uomo-Computer,B1_Centrale,9423,V
+100,88,VERNANT J.P.,Mito E Pensiero Presso I Greci,B1_Centrale,8493,V
+100,89,FREUD S.,Totem E Tabu',B1_Centrale,9232,V
+100,113,BURBATTI - CASTOLDI,Il Pianeta Degli Adolescenti,B1_Centrale,101387,V
+100,118,FROMM ERICH,Avere O Essere,B1_Centrale,101675,V
+100,137,ECO UMBERTO,Kant e l'Ornitorinco,B1_Centrale,omaggio,V
+100,146,ODIFREDDI PIERGIORGIO,Il Computer di Dio,B1_Centrale,omaggio,V
+100,154,CORDA - MARELLO,Lessico Insegnarlo e Impararlo,B1_Centrale,10883,V
+100,155,CAON - ONGINI,Intercultura nel pallone Italiano L2,B1_Centrale,10884,V
+100,156,CAON - RUTKA,La Lingua in Gioco Italiano L2,B1_Centrale,10885,V
+100,157,MOLLICA ANTHONY,Ludolinguistica e Glottodidattica,B1_Centrale,10886,V
+100,158,BRUGNOLO - MOZZI,Ricettario di Scrittura Creativa,B1_Centrale,10887,V
+200,26,AA.VV.,Corano (Il),B1_Centrale,3297,V
+200,29,AA.VV.,Vangelo (Il),B1_Centrale,3202,V
+200,48,JIM KOEN TCHAO,Confucianesimo (Il),B1_Centrale,7438,V
+200,49,SATORI BHAUTE BROKKI,Shintoismo (Lo),B1_Centrale,7439,V
+200,50,JOANNES FERNANDO,Ebraismo (L'),B1_Centrale,7433,V
+200,51,RONCHI SERGIO,Protestantesimo (Il),B1_Centrale,7434,V
+200,52,PEIRONE FEDERICO,Islamismo (L'),B1_Centrale,7435,V
+200,53,ANGELINI IGNAZIA MAR,Cattolicesimo (Il),B1_Centrale,7436,V
+200,54,CONIO CATERINA,Induismo (L'),B1_Centrale,7437,V
+200,112,ODIFREDDI PIERGIORGIO,Il Vangelo Secondo La Scienza,B1_Centrale,101409,V
+300,96,CAPITINI ALDO,"Non (La) Violenza, Oggi",B1_Centrale,151,V
+300,183,GRAMSCI ANTONIO,Quaderni Dal Carcere,B1_Centrale,1649,V
+300,211,GANDHI M.K.,Teoria E Pratica Della Non Violenza,B1_Centrale,2102,V
+300,258,SCIASCIA LEONARDO,Affaire (L') Moro,B1_Centrale,2409,V
+300,269,VANZETTI BARTOLOMEO,Caso (Il) Sacco E Vanzetti,B1_Centrale,2498,V
+800,236,DE SANCTIS FRANCESCO,Saggi Critici,B1_Centrale,990,V
+800,238,FUBINI MARIO,Romanticismo Italiano,B1_Centrale,992,V
+800,251,BALDINI GARIELE,Manualetto Shakespeariano,B1_Centrale,1005,V
+800,283,CECHOV ANTON,Giardino (Il) Dei Ciliegi,B1_Centrale,1611,V
+800,285,MAURO WALTER,Sciascia,B1_Centrale,1616,V
+800,286,LONGOBARDI FULVIO,Moravia,B1_Centrale,1617,V
+800,287,LIVI FRANCOIS,Camus,B1_Centrale,1618,V
+800,288,MANACORDA GIULIANO,Montale,B1_Centrale,1619,V
+800,289,SALVESTRONI SIMONETT,Tomasi Di Lampedusa,B1_Centrale,1626,V
+800,290,PINCHERA ANTONIO,Saba,B1_Centrale,1627,V
+800,292,JESI FURIO,Brecht,B1_Centrale,1629,V
+800,293,ZAGAZZIO GIUSEPPE,Quasimodo,B1_Centrale,1630,V
+800,294,ANZAINO TOMMASO,Pasolini,B1_Centrale,1631,V
+800,295,BRIOSI SANDRO,Vittorini,B1_Centrale,1632,V
+800,297,JESI FURIO,Thomas Mann,B1_Centrale,1643,V
+800,298,TARIZZO DOMENICO,Proust,B1_Centrale,1644,V
+800,307,MELIS ANTONIO,Neruda,B1_Centrale,2035,V
+800,308,LUTI GIORGIO,Italo Svevo,B1_Centrale,2036,V
+800,310,MASTERS EDGAR LEE,Antologia Di Spoon River,B1_Centrale,2104,V
+800,312,NERUDA PABLO,Poesie,B1_Centrale,2137,V
+800,314,GUILLEN NICOLAS,Qualche (In) Punto Della Primavera,B1_Centrale,2124,V
+800,318,FERTONANI ROBERTO,Brecht,B1_Centrale,2139,V
+800,321,DE CASTRIS ARCANGELO,Storia Di Pirandello,B1_Centrale,2235,V
+800,330,SANGUINETI EDOARDO,Studi (Tre) Danteschi,B1_Centrale,2302,V
+800,336,DEL SERRA,Giovanni Pascoli,B1_Centrale,2356,V
+800,337,TELLINI,Alessandro Manzoni,B1_Centrale,2357,V
+800,338,LAFFI - NARDI,Gabriele D'Annunzio,B1_Centrale,2358,V
+800,339,ASOR ROSA ALBERTO,Eta' (L') Del Decadentismo E Della Crisi,B1_Centrale,2368,V
+800,341,LUGNANI LUCIO,Gozzano,B1_Centrale,2365,V
+800,342,VINCENTI FIORA,Lalla Romano,B1_Centrale,2361,V
+800,343,SERENI ADRIANO,Gadda,B1_Centrale,2364,V
+800,344,PESCIO BOTTINO GERMA,Calvino,B1_Centrale,2363,V
+800,345,VARANINI GIORGIO,Bassani,B1_Centrale,2362,V
+800,346,VARDIA FERDINANDO,Silone,B1_Centrale,2367,V
+800,349,GOZZANO GUIDO,Poesie Scelte,B1_Centrale,2470,V
+800,350,DE MARIA LUCIANO,Marinetti E Il Futurismo,B1_Centrale,2478,V
+800,513,CROTTI ILARIA,Dino Buzzati,B1_Centrale,5865,V
+800,514,ANCESCHI LUCIANO,Che Cosa E' La Poesia,B1_Centrale,6130,V
+800,515,MAZZACURATI GIANCARL,Pirandello Nel Romanzo Europeo,B1_Centrale,6344,V
+800,521,FERRARIS ANGIOLA,Ultimo (L') Leopardi,B1_Centrale,6313,V
+800,522,CARDUCCI GIOSUE',Poesie,B1_Centrale,6301,V
+800,523,PASCOLI GIOVANNI,Poesia,B1_Centrale,6340,V
+800,539,ASOR ROSA ALBERTO,Scrittori E Popolo,B1_Centrale,6760,V
+800,543,ALIGHIERI DANTE,Divina (La) Commedia,B1_Centrale,7121,V
+800,544,ANTONELLI SERGIO,M'Illumino D'Immenso,B1_Centrale,6887,V
+800,548,FLAUBERT GUSTAVE,Dizionario Delle Idee Comuni,B1_Centrale,6772,V
+800,550,PESSOA FERNANDO,Poeta (Il) E' Un Fingitore,B1_Centrale,7250,V
+800,551,RUSSO,Personaggi Dei Promessi Sposi,B1_Centrale,7196,V
+800,552,SERMONTI VITTORIO,Inferno (L') Di Dante,B1_Centrale,7243,V
+800,555,DE SANCTIS FRANCESCO,Saggi Danteschi,B1_Centrale,7371,V
+N,11,SIMENON GEORGE,Romanzi Autobiografici,B1_Centrale,1406,V
+N,73,PAVESE CESARE,Lettere 1926-1950 (1),B1_Centrale,1468,V
+N,74,PAVESE CESARE,Lettere 1926-1950 (2),B1_Centrale,1469,V
+N,110,DIDEROT DENIS,Nipote (Il) Di Rameau / Jacques Il Fatalista,B1_Centrale,1345,V
+N,162,GONCAROV IVAN A.,Oblomov,B1_Centrale,1477,V
+N,176,PRATOLINI VASCO,Metello,B1_Centrale,1491,V
+N,195,FALLACI ORIANA,Lettera a un bambino mai nato,B1_Centrale,1680,V
+N,204,FO DARIO,Commedie (Le) Di Dario Fo,B1_Centrale,2136,V
+N,216,MILANI DON LORENZO,Lettere,B1_Centrale,2100,V
+N,231,VANZETTI BARTOLOMEO,Autobiografia,B1_Centrale,2191,V
+N,245,ROLFI BECCARIA LIDIA,Donne (Le) Di Ravensbruck,B1_Centrale,2258,V
+N,268,MASSUCCO RENATO,Trenta (Le) Giornate Del Boia,B1_Centrale,2382,V
+N,283,CALDWELL ERSKIN,Via (La) Del Tabacco,B1_Centrale,2482,V
+N,293,SOLDATI MARIO,Novelle (44) Per L'Estate,B1_Centrale,2466,V
+N,335,SCIASCIA LEONARDO,Consiglio (Il) D'Egitto,B1_Centrale,2593,V
+N,336,MORANTE ELSA,Mondo (Il) Salvato Dai Ragazzini,B1_Centrale,2587,V
+N,337,AA.VV.,Ultime Lettere Da Stalingrado,B1_Centrale,2589,V
+N,354,SOLDATI MARIO,Novelle (55) Per L' Inverno,B1_Centrale,2739,V
+N,365,STEINBECK JOHN,Red (The) Pony,B1_Centrale,2804,V
+N,419,MONTI AUGUSTO,Sanssossi (I),B1_Centrale,2861,V
+N,442,GINZBURG NATALIA,Famiglia,B1_Centrale,3065,V
+N,453,MARRO CARLO,Cuneo ... Una Volta,B1_Centrale,3156,V
+N,506,NORDHOFF CHARLES,Ammutinamento (L') Del Bounty,B1_Centrale,3187,V
+N,516,DE ROBERTO FEDERICO,L'Imperio,B1_Centrale,3400,V
+N,531,SPINOSA ANTONIO,Starace,B1_Centrale,3425,V
+N,535,BEVILACQUA ALBERTO,Festa Parmigiana,B1_Centrale,3424,V
+N,538,CANETTI ELIAS,Auto Da Fe',B1_Centrale,3430,V
+N,546,SCIASCIA LEONARDO,Teatro (Il) Della Memoria,B1_Centrale,3435,V
+N,553,DOCTOROW E.L.,Lago (Il) Delle Strolaghe,B1_Centrale,3601,V
+N,566,ADAMS RICHARD,Ragazza (La) Sull'Altalena,B1_Centrale,3684,V
+N,568,YOURCENAR MARGUERITE,Archivi Del Nord,B1_Centrale,3718,V
+N,569,MORANTE ELSA,Aracoeli,B1_Centrale,3722,V
+N,574,AMADO JORGE,Guardiani (I) Della Notte,B1_Centrale,3709,V
+N,575,GUARNASCHELLI EMILIO,Piccola (Una) Pietra,B1_Centrale,3710,V
+N,581,CALVINO ITALO,Piu' (Le) Belle Pagine Di Tommaso Landolfi,B1_Centrale,3688,V
+N,587,LIBORIO MARIA ANTONIA,Storie Di Dame E Trovatori Di Provenza,B1_Centrale,3724,V
+N,595,DE CARLO ANDREA,Treno Di Panna,B1_Centrale,3720,V
+N,602,PLUTARCO,Vite Parallele,B1_Centrale,3542,V
+N,607,REVELLI NUTO,Fronte (L') Ultimo,B1_Centrale,3524,V
+N,608,AA.VV.,Partono I Bastimenti,B1_Centrale,3619,V
+N,619,GRIMM J. - W.,Fiabe,B1_Centrale,3514,V
+N,625,LEE MASTERS EDGAR,Antologia Di Spoon River,B1_Centrale,3523,V
+N,626,HORST EBERHARD,Cesare,B1_Centrale,3498,V
+N,636,DOCTOROV E. L.,Ragtime,B1_Centrale,3541,V
+N,637,LEVI PRIMO,"Se Non Ora, Quando ?",B1_Centrale,3511,V
+N,642,PORCARI LIBERO,Cuneense (La),B1_Centrale,3580,V
+N,649,SVETONIO,Vita Dei Cesari,B1_Centrale,3529,V
+N,657,PONZO PIETRO,Val Mairo La Nosto,B1_Centrale,3744,V
+N,658,GIORDANENGO GINO,Sentieri (Sui) Della Memoria,B1_Centrale,3756,V
+N,680,ROMANO LALLA,Inseparabile,B1_Centrale,3841,V
+N,694,CORTAZAR JULIO,Tanto Amore Per Glenda,B1_Centrale,3861,V
+N,706,STEINBECK JOHN,Diario Di Bordo Dal Mare Di Cortez,B1_Centrale,3850,V
+N,708,SIENKAIEWICZ HENRY,Quo Vadis,B1_Centrale,3849,V
+N,711,FARMER PHILIP,Notte Di Luce,B1_Centrale,3835,V
+N,718,YOURCENAR MARGUERITE,Memorie Di Adriano,B1_Centrale,3881,V
+N,728,CORTAZAR JULIO,Viaggio (Il) Premio,B1_Centrale,3880,V
+N,744,GIACOSA DINO,Tesi Partigiana,B1_Centrale,3846,V
+N,748,KENNEDY HUBERT,Peano,B1_Centrale,3979,V
+N,765,DE BEAUVOIR SIMONE,Memorie Di Una Ragazza Per Bene,B1_Centrale,3996,V
+N,767,TAYLOR DAVID,Avanti Il Panda,B1_Centrale,4009,V
+N,768,MARQUEZ GABRIEL GARC,Autunno (L') Del Patriarca,B1_Centrale,4008,V
+N,780,RUSHDIE SALMAN,Figli (I) Della Mezzanotte,B1_Centrale,4109,V
+N,782,GARFIELD BRIAN,Successione (La) Romanov,B1_Centrale,4053,V
+N,815,BELLOW SAUL,Dono (Il) Di Humboldt,B1_Centrale,4081,V
+N,816,GIOVENALE DECIMO G.,Satire (Le),B1_Centrale,4112,V
+N,819,GRANZOTTO GIANNI,Cristoforo Colombo,B1_Centrale,4141,V
+N,824,BENNI STEFANO,Terra,B1_Centrale,4128,V
+N,842,HIGGINS JACK,Notte (La) Dell'Aquila,B1_Centrale,4034,V
+N,850,MASSUCCO RENATO,Trenta (Le) Giornate Del Boia,B1_Centrale,omaggio,V
+N,853,MASSUCCO RENATO,Miserere a Squarciagola,B1_Centrale,omaggio,V
+N,857,AA.VV.,Illustri E Sconosciuti Delle Vie Del Piemonte E Va,B1_Centrale,omaggio,V
+N,871,ROTH JOSEPH,Romanzi Brevi,B1_Centrale,4246,V
+N,873,BOSONETTO MARCELLO,E' Bastato Testimoniare,B1_Centrale,4234,V
+N,877,BLIXEN KAREN,Ultimi Racconti,B1_Centrale,4238,V
+N,879,TOLKIEN J.R.R.,Albero E Foglia,B1_Centrale,4217,V
+N,880,YOURCENAR MARGUERITE,Come L'Acqua Che Scorre,B1_Centrale,4221,V
+N,881,AUGUET ROLAND,Caligola,B1_Centrale,4237,V
+N,889,TOMIZZA FULVIO,Male (Il) Viene Dal Nord,B1_Centrale,4130,V
+N,903,YOURCENAR MARGUERITE,Opera (L') Al Nero,B1_Centrale,4252,V
+N,906,AA.VV.,Lettere Di Condannati A Morte Della Resistenza Ita,B1_Centrale,4278,V
+N,916,SVEVO ITALO,Coscienza (La) Di Zeno,B1_Centrale,5077,V
+N,923,BIANCO ABELE AURELIA,Anni (Gli) Del Miele,B1_Centrale,5039,V
+N,925,PIVANO FERNANDA,Hemingway,B1_Centrale,5020,V
+N,926,YOURCENAR MARGUERITE,Ad Occhi Aperti,B1_Centrale,5016,V
+N,932,HELLER  JOSEPH,Comma 22,B1_Centrale,5015,V
+N,937,ROTH JOSEPH,Mercante (Il) Di Coralli,B1_Centrale,5013,V
+N,939,GINZBURG NATALIA,Citta' (La) E La Casa,B1_Centrale,5033,V
+N,946,PRATOLINI VASCO,Mannello (Il) Di Natascia,B1_Centrale,5004,V
+N,948,BUZZATI DINO,Reggimento (Il) Parte All'Alba,B1_Centrale,5028,V
+N,962,LONGFELLOW W.,Evangeline La Canzone Di Hiawatha,B1_Centrale,5122,V
+N,987,CALVINO ITALO,Cosmicomiche Vecchie E Nuove,B1_Centrale,5211,V
+N,988,CARDINI FRANCO,Barbarossa (Il),B1_Centrale,omaggio,V
+N,991,OCHETTO VALERIO,Adriano Olivetti,B1_Centrale,5228,V
+N,993,FORSTER E.M.,Passaggio In India,B1_Centrale,5205,V
+N,994,TACCONI BRUNO,Ramsete E Il Sogno Di Kadesh,B1_Centrale,5216,V
+N,995,BELLOW SAUL,Herzog,B1_Centrale,5218,V
+N,998,ORIGO IRIS,Immagini E Ombre,B1_Centrale,5210,V
+N,1000,ORIGO IRIS,Bisogno Di Testimoniare,B1_Centrale,5199,V
+N,1001,VASSALLI SEBASTIANO,Sangue E Suolo,B1_Centrale,5201,V
+N,1006,SIGNORET SIMONE,Addio Volodia,B1_Centrale,5322,V
+N,1012,DE CRESCENZO LUCIANO,Oi Dialogoi - I Dialoghi Di Bellavista,B1_Centrale,5337,V
+N,1013,DURAS MARGUERITE,Dolore (Il),B1_Centrale,5330,V
+N,1024,AA.VV.,Bottega (La) Dello Stregone Cent'Anni Di Fiabe Ita,B1_Centrale,5332,V
+N,1041,JAMES HENRY,Romanzi Brevi,B1_Centrale,5628,V
+N,1044,TABUCCHI ANTONIO,Piccoli Equivoci Senza Importanza,B1_Centrale,5565,V
+N,1047,KUNDERA MILAN,Insostenibile (L') Leggerezza Dell'Essere,B1_Centrale,5611,V
+N,1058,ROMANO LALLA,Treccia (La) Di Tatiana,B1_Centrale,5554,V
+N,1059,MANFREDI M. VALERIO,Palladion,B1_Centrale,5617,V
+N,1066,CHIARA PIERO,Capostazione (Il) Di Casalino E Altri 15 Racconti,B1_Centrale,5545,V
+N,1072,DURENMATT FRIEDRICH,Giustizia,B1_Centrale,5547,V
+N,1075,KUNDERA MILAN,Scherzo (Lo),B1_Centrale,5645,V
+N,1076,BURZIO LORENZO,Alla Ricerca Del Vecchio Piemonte,B1_Centrale,5710,V
+N,1079,ASSOCIAZIONE PARTIGIANI,Eccidio (L') Di Bosco Di Corniglio,B1_Centrale,4269,V
+N,1083,LESSING DORIS,Diario (Il) Di Jam Somers,B1_Centrale,5535,V
+N,1085,BOSCA DONATO,Io Parto,B1_Centrale,5403,V
+N,1108,PANSA GIAMPAOLO,Carte False,B1_Centrale,5820,V
+N,1112,AA.VV.,Vangeli (I) Apocrifi,B1_Centrale,5781,V
+N,1119,TABUCCHI ANTONIO,Filo (Il) Dell'Orizzonte,B1_Centrale,5830,V
+N,1120,GATTO CHANN TERSILLA,Leggende E Racconti Popolari Del Piemonte,B1_Centrale,5782,V
+N,1122,CAVALLO GUIDO,Sotto L'Albero Del Pane,B1_Centrale,5213,V
+N,1131,NIETSCHE FRIEDRICH,Cosi' Parlo' Zarathustra,B1_Centrale,5862,V
+N,1137,GANDHI M.K.,Mia (La) Vita Per La Liberta',B1_Centrale,5853,V
+N,1142,THOMAS BOB,Walt Disney,B1_Centrale,5855,V
+N,1144,POTOCKI JAN,Manoscritto trovato a Saragozza,B1_Centrale,5549?,V
+N,1150,PAMPALONI GENO,Adriano Olivetti - Un'Idea Di Democrazia,B1_Centrale,5385,V
+N,1151,MARQUEZ GARCIA GABRI,Amore (L') Ai Tempi Del Colera,B1_Centrale,5620,V
+N,1170,BELLOK G. MELODIA G.,Donne E Bambini Nei Lager Nazisti,B1_Centrale,5944,V
+N,1198,MAGRIS CLAUDIO,Danubio,B1_Centrale,6189,V
+N,1207,RIGONI STERN MARIO,Amore Di Confine,B1_Centrale,6172,V
+N,1214,BRUNO GIUSEPPE,Storie Di Alpini E Di Muli,B1_Centrale,6197,V
+N,1216,ARIES PH. DUBY G.,Vita (La) Privata Dell'Impero Romano All'Anno Mill,B1_Centrale,6176,V
+N,1219,VERCELLOTTI GIANNI,Fra Pietre Lontane,B1_Centrale,6198,V
+N,1231,SCIASCIA LEONARDO,1912 + 1,B1_Centrale,6194,V
+N,1233,ROMANO LALLA,Romanzo Di Figure,B1_Centrale,6185,V
+N,1243,BUSI ALDO,Delfina (La) Bizantina,B1_Centrale,6181,V
+N,2623,DURRENMATT FRIEDRICH,Il Sospetto,B1_Centrale,100313,V
+N,2661,MONTALBAN MANUEL,Lo Strangolatore,B1_Centrale,100335,V
+N,2662,CONSOLO VINCENZO,L'Olivo E L'Olivastro,B1_Centrale,100417,V
+N,2664,DEAGLIO ENRICO,La Banalita' Del Bene,B1_Centrale,100283,V
+N,2666,SINGER ISAAC B.,Anime Perdute,B1_Centrale,100294,V
+N,2667,CITATI PIETRO,La Colomba Pugnalata,B1_Centrale,100285,V
+N,2672,BARBERO ALESSANDRO,Bella Vita E Guerre Altrui Di Mr.Pyle Gentiluomo,B1_Centrale,100363,V
+N,2673,SIMENON GEORGES,Una Testa In Gioco,B1_Centrale,100365,V
+N,2674,ORENGO NICO,L'Autunno Della Signora Waal,B1_Centrale,100366,V
+N,2676,AA.VV.,Panta Cinema,B1_Centrale,100430,V
+N,2677,MC CARTHY CORMAC,Oltre Il Confine,B1_Centrale,100384,V
+N,2679,PILCHER ROSAMUNDE,Ritorno A Casa,B1_Centrale,100380,V
+N,2680,MC BAIN ED,Cinque Romanzi,B1_Centrale,100382,V
+N,2681,REVELLI NUTO,Il Disperso Di Marburg,B1_Centrale,100425,V
+N,2682,TESTI ELETTRA,La Sorella,B1_Centrale,100399,V
+N,2685,ARACHI ALESSANDRA,Briciole,B1_Centrale,100390,V
+N,2687,CALVINO ITALO,Eremita A Parigi,B1_Centrale,100414,V
+N,2688,TABUCCHI ANTONIO,Sostiene Pereira,B1_Centrale,100427,V
+N,2690,TAMARO SUSANNA,Va' Dove Ti Porta Il Cuore,B1_Centrale,100408,V
+N,2691,LA CAPRIA RAFFAELE,L'Occhio Di Napoli,B1_Centrale,100404,V
+N,2692,LEVI BIANCHINI MARCELLA,E Ora Dove Vado,B1_Centrale,100384,V
+N,2695,AA.VV.,Mi Riguarda,B1_Centrale,100389,V
+N,2696,TOAFF ELIO,Essere Ebreo,B1_Centrale,100409,V
+N,2701,BARICCO ALESSANDRO,Oceano Mare,B1_Centrale,100413,V
+N,2702,D'AMICO SILVIO,Regina Coeli,B1_Centrale,101217,V
+N,2704,SICILIANO ENZO,Mia Madre Amava Il Mare,B1_Centrale,100426,V
+N,2705,MARAINI DACIA,Voci,B1_Centrale,100423,V
+N,2709,MONTEFOSCHI GIORGIO,La Casa Del Padre,B1_Centrale,100498,V
+N,2712,AA.VV.,Il Gioco Dei Giorni Narrati,B1_Centrale,100429,V
+N,2713,MAZZANTINI MARGARET,Il Catino Di Zinco,B1_Centrale,100397,V
+N,2714,CELLI-GUCCINI-MANFREDI,Storie D'Inverno,B1_Centrale,100416,V
+N,2717,GAARDER JOSTEIN,L'Enigma Del Solitario,B1_Centrale,100515,V
+N,2718,CASTELLANETA CARLO,La Citta' E Gli Inganni,B1_Centrale,100517,V
+N,2721,LEVI PRIMO,"Se Non Ora, Quando?",B1_Centrale,100502,V
+N,2722,WALLER ROBERT JAMES,I Ponti Di Madison Country,B1_Centrale,100519,V
+N,2724,LATTES MARIO,Il Borghese Di Ventura,B1_Centrale,100561,V
+N,2725,ARBASINO ALBERTO,Il Principe Costante,B1_Centrale,100560,V
+N,2727,SCIASCA LEONARDO,Il Mare Colore Del Vino,B1_Centrale,100557,V
+N,2728,SOLZENICYN ALEKSANDR,Il Cervo E La Bella Del Campo Una Candela Al Vento,B1_Centrale,100558,V
+N,2729,KANIUK YORAM,Adamo Risorto,B1_Centrale,100508,V
+N,2730,MORANTE ELSA,Aracoeli,B1_Centrale,100541,V
+N,2731,CASSOLA CARLO,Il Cacciatore,B1_Centrale,100538,V
+N,2732,VASSALLI SEBASTIANO,L'Arrivo Della Lozione,B1_Centrale,100543,V
+N,2733,LEVI PRIMO,Vizio Di Forma,B1_Centrale,100544,V
+N,2736,LAWRENCE D.M.,Figli E Amanti,B1_Centrale,100563,V
+N,2737,SALINGER J.D.,Franny E Zooey,B1_Centrale,100565,V
+N,2738,JOVINE FRANCESCO,Le Terre Del Sacramento,B1_Centrale,100545,V
+N,2739,RIGONI STERN MARIO,Il Bosco Degli Urogalli,B1_Centrale,100550,V
+N,2740,LOY ROSETTA,La Bicicletta,B1_Centrale,100552,V
+N,2743,DURRENMATT FRIEDRICH,La Caduta,B1_Centrale,100553,V
+N,2744,LATTES MARIO,L'Incendio Del Regio,B1_Centrale,100555,V
+N,2745,MASTRONARDI LUCIO,Il Meridionale Di Vigevano,B1_Centrale,100556,V
+N,2747,GADDA CARLO EMILIO,Le Meraviglie D'Italia,B1_Centrale,100547,V
+N,2748,SCIASCA LEONARDO,Il Teatro Della Memoria,B1_Centrale,100538,V
+N,2755,SEGRE RENZO,Venti Mesi,B1_Centrale,100632,V
+N,2756,VASSALLI SEBASTIANO,Cuore Di Pietra,B1_Centrale,100610,V
+N,2758,FOLLETT KEN,Il Terzo Gemello,B1_Centrale,100636,V
+N,2759,LAGORIO GINA,Il Bastardo,B1_Centrale,100638,V
+N,2763,WILKOMIRSKI BINJAMIN,Frantumi,B1_Centrale,100634,V
+N,2765,MUNOZ MOLINA ANTONIO,L'Inverno A Lisbona,B1_Centrale,100675,V
+N,2766,BOCCA GIORGIO,Il Viaggiatore Spaesato,B1_Centrale,100641,V
+N,2770,LE CARRE' JOHN,Il Direttore Di Notte,B1_Centrale,100635,V
+N,2771,PANSA GIAMPAOLO,I Nostri Giorni Proibiti,B1_Centrale,100612,V
+N,2772,GARCIA MARQUEZ GABRIEL,Notizia Di Un Sequestro,B1_Centrale,100616,V
+N,2774,GERRITSEN TESS,Il Prezzo,B1_Centrale,100643,V
+N,2776,PUZO MARIO,L'Ultimo Padrino,B1_Centrale,100624,V
+N,2779,YEHOSHUA ABRAHAM B.,Un Divorzio Tardivo,B1_Centrale,100607,V
+N,2780,CAMON FERDINANDO,La Terra E' Di Tutti,B1_Centrale,100679,V
+N,2781,MALET LEO,"120, Rue De La Gare",B1_Centrale,100614,V
+N,2782,BANKS IAIN,Complicita',B1_Centrale,100651,V
+N,2783,DE CARLO ANDREA,Uto,B1_Centrale,100644,V
+N,2785,PERECHODNIK CADEL,Sono Un Assassino,B1_Centrale,100649,V
+N,2786,PETERS ELLIS,Il Corvo Dell'Abbazia,B1_Centrale,100666,V
+N,2793,MANFREDI VALERIO ,La Torre Della Solitudine,B1_Centrale,100811,V
+N,2798,PONTIGGIA GIUSEPPE,L'Isola Volante,B1_Centrale,100816,V
+N,2799,COMENCINI CRISTINA,Passione Di Famiglia,B1_Centrale,100817,V
+N,2808,SESSI FREDIANO,L'Ultimo Giorno,B1_Centrale,100826,V
+N,2809,DI LASCIA MARIATERESA,Passaggio In Ombra,B1_Centrale,100827,V
+N,2811,CALVINO ITALO,Il Castello Dei Destini Incrociati,B1_Centrale,100843,V
+N,2812,TOLSTAJA TAT'JANA,La Piu' Amata,B1_Centrale,100842,V
+N,2814,SANVITALE FRANCESCA,Il Figlio Dell'Impero,B1_Centrale,100846,V
+N,2815,AFFINATI ERALDO,Bandiera Bianca,B1_Centrale,100891,V
+N,2816,VERONESI SANDRO,Live,B1_Centrale,100899,V
+N,2823,VERONESI SANDRO,Live,B1_Centrale,100898,V
+N,2824,STARNONE FEDERICO,Piu' Leggero Non Basta,B1_Centrale,100896,V
+N,2826,BIAMONTI FRANCESCO,Vento Largo,B1_Centrale,100861,V
+N,2827,SERENI CLARA,Eppure,B1_Centrale,100893,V
+N,2834,LOY ROSETTA,Le Strade Di Polvere,B1_Centrale,100091,V
+N,2835,LOY ROSETTA,Le Strade Di Polvere,B1_Centrale,100030,V
+N,2837,RONCHEY VITTORIA,1944 Romanzo,B1_Centrale,100025,V
+N,2839,LE CARRE' JOHN,Il Sarto Di Panama,B1_Centrale,100948,V
+N,2841,KEROUAC JACK,Sulla Strada,B1_Centrale,100934,V
+N,2842,GRISHAM JOHN,Il Partner,B1_Centrale,100947,V
+N,2845,GRASS GUNTER,La Ratta,B1_Centrale,100887,V
+N,2846,ABECASSIS ELIETTE,Qumran,B1_Centrale,100918,V
+N,2847,MUJICA LAINEZ MANUEL,Lo Scarabeo Di Nefertari,B1_Centrale,100904,V
+N,2849,SARAMAGO JOSE',Cecita',B1_Centrale,100963,V
+N,2850,VOLPONI PAOLO,La Strada Per Roma,B1_Centrale,100879,V
+N,2852,TADINI EMILIO,La Tempesta,B1_Centrale,100848,V
+N,2853,BEN JELLOUN TAHAR,A Occhi Bassi,B1_Centrale,100881,V
+N,2855,SIMENON GEORGES,I Fantasmi Del Cappellaio,B1_Centrale,100938,V
+N,2856,CARDINI FRANCO,L'Avventura Di Un Povero Crociato,B1_Centrale,100953,V
+N,2857,KNIGHT - LOMAS,La Chiave Di Hiram,B1_Centrale,100913,V
+N,2858,WHARTON EDITH,La Collezione Raycie,B1_Centrale,100907,V
+N,2859,CAMILLERI ANDREA,Il Ladro Di Merendine,B1_Centrale,100905,V
+N,2860,AMIS MARTIN,Il Treno Della Notte,B1_Centrale,100814,V
+N,2861,MALERBA LUIGI,Itaca Per Sempre,B1_Centrale,100930,V
+N,2862,SPRINGER ELISA,Il Silenzio Dei Vivi,B1_Centrale,100941,V
+N,2870,CAMPANA DOMENICO ,I Giardini Della Favorita,B1_Centrale,100866,V
+N,2871,CRICHTON MICHAEL,Punto Critico,B1_Centrale,100936,V
+N,2872,YAN MO,L'Uomo Che Allevava I Gatti,B1_Centrale,100954,V
+N,2875,SAKI,L'Insopportabile Bassington,B1_Centrale,100865,V
+N,2876,MANNUZZU SALVATORE,Le Ceneri Del Montiferro,B1_Centrale,100855,V
+N,2877,METTER IZRAIL',Genealogia,B1_Centrale,100854,V
+N,2879,PEIRANO LILIANA,Primavera Dolce Amara,B1_Centrale,101045,V
+N,2880,ANONIMO,Aladino E La Lampada Meravigliosa,B1_Centrale,101040,V
+N,2881,SHAKESPEARE WILLIAM,Otello Il Moro Di Venezia,B1_Centrale,101039,V
+N,2882,VON KLEIST HEINRICH,Michael Kohlhaas La Marchesa Von O.,B1_Centrale,101032,V
+N,2883,PEROTTI CARLA,Pensieri Da Una Citta' Materna,B1_Centrale,101033,V
+N,2884,RICHTER E.A.,Il Lenzuolo Di Lino,B1_Centrale,101037,V
+N,2885,SHAKESPEARE WILLIAM,Amleto Principe Di Danimarca,B1_Centrale,101029,V
+N,2886,MANN THOMAS,La Morte A Venezia,B1_Centrale,101041,V
+N,2887,QUINTANA ANTON,Vento Che Parla Sabbia Che Canta,B1_Centrale,101016,V
+N,2888,MAGRIS CLAUDIO,Un Altro Mare,B1_Centrale,101060,V
+N,2889,CANFORA LUCIANO,La Lista Di Andocide,B1_Centrale,101088,V
+N,2890,PUSKIN ALEKSANDER,La Dama Di Picche E Altri Racconti,B1_Centrale,101091,V
+N,2891,NOTHOMB AMELIE,Sabotaggio D'Amore,B1_Centrale,101109,V
+N,2892,CAMILLERI ANDREA,La Concessione Del Telefono,B1_Centrale,101103,V
+N,2894,FITZGERALD PENELOPE,Il Fiore Azzurro,B1_Centrale,101104,V
+N,2895,FRISTER ROMAN,Il Prezzo Della Vita,B1_Centrale,101101,V
+N,2896,MANFREDI VALERIO MASSIMO,Le Sabbie Di Amon,B1_Centrale,101093,V
+N,2897,MANFREDI VALERIO MASSIMO,Il Figlio Del Sogno,B1_Centrale,101069,V
+N,2898,REVELLI NUTO,Il Prete Giusto,B1_Centrale,101056,V
+N,2899,LORENZ KONRAD,L'Anello Di Re Salomone,B1_Centrale,101095,V
+N,2900,AA.VV.,Le Serate Di Medan,B1_Centrale,101087,V
+N,2904,METTER IZRAIL',Ritratto Di Un Secolo,B1_Centrale,101054,V
+N,2905,SCHNEIDER HELGA,Il Piccolo Adolf Non Aveva Le Ciglia,B1_Centrale,101072,V
+N,2906,FOLLET KEN,Il Martello Dell'Eden,B1_Centrale,101075,V
+N,2907,MANFREDI VALERIO MASSIMO,Il Confine Del Mondo,B1_Centrale,101094,V
+N,2908,CORNWELL PATRICIA,Il Nido Dei Calabroni,B1_Centrale,101084,V
+N,2910,DE MARCHI CESARE,Il Talento,B1_Centrale,101083,V
+N,2912,HARRIS ROBERT,Archangel,B1_Centrale,101092,V
+N,2913,VERGA GIOVANNI,I Malavoglia - Mastro Don Gesualdo,B1_Centrale,101050,V
+N,2916,DUMAS ALEXANDRE,La Sanfelice,B1_Centrale,101071,V
+N,2917,MONTALBAN MANUEL V.,O Cesare O Nulla,B1_Centrale,101073,V
+N,2919,DURRELL GERALD,La Mia Famiglia E Altri Animali,B1_Centrale,101189,V
+N,2920,BRIZZI ENRICO,Tre Ragazzi Immaginari,B1_Centrale,101187,V
+N,2921,AUSTER PAUL,L'Invenzione Della Solitudine,B1_Centrale,101188,V
+N,2922,VONNEGUT KURT,Cronosisma,B1_Centrale,101167,V
+N,2924,CAMILLERI ANDREA,Il Cane Di Terracotta,B1_Centrale,101186,V
+N,2925,RIGONI STERN MARIO,Sentieri Sotto La Neve,B1_Centrale,101139,V
+N,2926,FARINETTI GIANNI,Un Delitto Fatto In Casa,B1_Centrale,101208,V
+N,2927,BARBERO ALESSANDRO,Bella Vita E Guerre Altrui Di Mr. Pyle Gentiluomo,B1_Centrale,101209,V
+N,2933,PANSA GIAMPAOLO,Il Bambino Che Guardava Le Donne,B1_Centrale,101299,V
+N,2935,HESSE HERMANN,L'Ultima Estate Di Klingsor,B1_Centrale,101304,V
+N,2936,CONAN DOYLE ARTHUR,Il Segno Dei Quattro,B1_Centrale,101307,V
+N,2937,JOYCE JAMES,Dedalus,B1_Centrale,101308,V
+N,2938,POE EDGAR ALLAN,Racconti Del Grottesco,B1_Centrale,101309,V
+N,2940,MORAVIA ALBERTO,Racconti Romani,B1_Centrale,101311,V
+N,2941,MANCINELLI LAURA,Il Principe Scalzo,B1_Centrale,101314,V
+N,2942,SHALEY MEIR,Per Amore Di Una Donna,B1_Centrale,101315,V
+N,2943,SCIASCIA LEONARDO,A Ciascuno Il Suo,B1_Centrale,101316,V
+N,2946,REMARQUE ERICH MARIA,Niente Di Nuovo Sul Fronte Occidentale,B1_Centrale,101322,V
+N,2947,STEINBECK JOHN,Furore,B1_Centrale,101323,V
+N,2948,CASSOLA CARLO,La Ragazza Di Bube,B1_Centrale,101324,V
+N,2949,FORSYTH FREDERICK,Dossier Odessa,B1_Centrale,101329,V
+N,2950,LEDDA GAVINO,Padre Padrone,B1_Centrale,101331,V
+N,2952,HALEY ALEX,Radici,B1_Centrale,101351,V
+N,2953,STEINBECK JOHN,La Valle Dell'Eden,B1_Centrale,101350,V
+N,2954,VITTORINI ELIO,Il Garofano Rosso,B1_Centrale,101349,V
+N,2955,DOSTOEVSKIJ FEDOR,Il Giocatore,B1_Centrale,101348,V
+N,2956,SCIASCIA LEONARDO,Una Storia Semplice,B1_Centrale,101345,V
+N,2958,ROMANO LALLA,La Penombra Che Abbiamo Attraversato,B1_Centrale,101338,V
+N,2959,LEVI PRIMO,La Tregua,B1_Centrale,101337,V
+N,2961,GIVONE SERGIO,Favola Delle Cose Ultime,B1_Centrale,101334,V
+N,2962,PRATOLINI VASCO,Metello,B1_Centrale,101377,V
+N,2963,VITTORINI ELIO,Conversazione In Sicilia,B1_Centrale,101375,V
+N,2964,MAROTTA GIUSEPPE,L'Oro Di Napoli,B1_Centrale,101374,V
+N,2965,JOYCE JAMES,Ulisse,B1_Centrale,101372,V
+N,2967,COELHO PAULO,Monte Cinque,B1_Centrale,101369,V
+N,2968,CASSOLA CARLO,Paura E Tristezza,B1_Centrale,101367,V
+N,2969,PRATOLINI VASCO,Cronaca Famigliare,B1_Centrale,101366,V
+N,2970,ECO UMBERTO,Il Nome Della Rosa,B1_Centrale,101358,V
+N,2972,MANN THOMAS,I Buddenbrook,B1_Centrale,101356,V
+N,2973,PENNAC DANIEL,La Passione Secondo Therese,B1_Centrale,101397,V
+N,2975,CAMILLERI ANDREA,La Mossa Del Cavallo,B1_Centrale,101400,V
+N,2976,STRADA GINO,Pappagalli Verdi,B1_Centrale,101396,V
+N,2977,GROSSAMAN DAVID,Che Tu Sia Per Me Il Coltello,B1_Centrale,101401,V
+N,2978,COUTO MIA,Terra Sonnambula,B1_Centrale,101402,V
+N,2979,MAHFUZ NAGIR,Miramar,B1_Centrale,101403,V
+N,2980,MANN THOMAS,Tonio Kroger La Morte A Venezia Cane E Padrone,B1_Centrale,101406,V
+N,2982,ZOLA EMILE,Germinale,B1_Centrale,101380,V
+N,2983,AMADO JORGE,Cacao,B1_Centrale,101382,V
+N,2984,PAVESE CESARE,Prima Che Il Gallo Canti,B1_Centrale,101381,V
+N,2985,VERGA GIOVANNI,Tutte Le Novelle,B1_Centrale,101386,V
+N,2986,VERGA GIOVANNI,Tutte Le Novelle,B1_Centrale,101385,V
+N,2987,PASOLINI PIER PAOLO,Una Vita Violenta,B1_Centrale,101389,V
+N,2988,SCHLINK - POPP,I Conti Del Passato,B1_Centrale,101393,V
+N,2989,POTOK CHAIM,Novembre Alle Porte,B1_Centrale,101394,V
+N,2992,SMITH WILBUR,Monsone,B1_Centrale,101418,V
+N,2993,FLAUBERT GUSTAVE,L'Educazione Sentimentale,B1_Centrale,101425,V
+N,2996,BARICCO ALESSANDRO,City,B1_Centrale,101419,V
+N,2998,PARK JACQUELINE,Il Libro Segreto Di Grazia De Rossi,B1_Centrale,101426,V
+N,2999,PUSKIN ALEKSANDER,Romanzi E Racconti,B1_Centrale,101427,V
+N,3000,ALLENDE ISABEL,La Figlia Della Fortuna,B1_Centrale,101415,V
+N,3001,SVEVO ITALO,Una Vita   ,B1_Centrale,101445,V
+N,3002,SVEVO ITALO,La Coscienza Di Zeno,B1_Centrale,101460,V
+N,3003,EVANS NICHOLAS,L'Uomo Che Sussurrava Ai Cavalli,B1_Centrale,101444,V
+N,3004,TURGENEV IVAN S.,Padri E Figli,B1_Centrale,101436,V
+N,3005,FLAUBERT GUSTAVE,Madame Bovary,B1_Centrale,101437,V
+N,3006,LECCA NICOLA,Concerti Senza Orchestra,B1_Centrale,101441,V
+N,3007,KING STEPHEN,La Bambina Che Amava Tom Gordon,B1_Centrale,101462,V
+N,3009,SEPULVEDA LUIS,Jacare',B1_Centrale,101476,V
+N,3011,HEMINGWAY ERNEST,Per Chi Suona La Campana,B1_Centrale,101475,V
+N,3012,HEMINGWAY ERNEST,Addio Alle Armi,B1_Centrale,101479,V
+N,3013,SILONE IGNAZIO,Fontamara,B1_Centrale,101457,V
+N,3014,PAVESE CESARE,Dialoghi Con Leuco',B1_Centrale,101466,V
+N,3015,PAVESE CESARE,La Luna E I Falo',B1_Centrale,101468,V
+N,3016,FENOGLIO BEPPE,I Ventitre Giorni Della Citta' Di Alba,B1_Centrale,101459,V
+N,3017,RIGONI STERN MARIO,Il Sergente Nella Neve - Ritorno Sul Don,B1_Centrale,101464,V
+N,3019,VIGANO' RENATA,L'Agnese Va A Morire,B1_Centrale,101463,V
+N,3020,FENOGLIO BEPPE,La Malora,B1_Centrale,101446,V
+N,3021,PAVESE CESARE,Racconti,B1_Centrale,101467,V
+N,3022,FENOGLIO BEPPE,Il Partigiano Johnny,B1_Centrale,101465,V
+N,3023,SVEVO ITALO,I Racconti,B1_Centrale,101430,V
+N,3024,BASSANI GIORGIO,Il Giardino Dei Finzi-Contini,B1_Centrale,101469,V
+N,3026,LEVI PRIMO,I Sommersi E I Salvati,B1_Centrale,101447,V
+N,3027,LEVI PRIMO,Il Sistema Periodico,B1_Centrale,101458,V
+N,3028,BUZZATI DINO,Un Amore,B1_Centrale,101498,V
+N,3029,MORAVIA ALBERTO,Gli Indifferenti,B1_Centrale,101492,V
+N,3030,MORAVIA ALBERTO,Nuovi Racconti Romani,B1_Centrale,101493,V
+N,3031,PAVESE CESARE,Il Mestiere Di Vivere,B1_Centrale,101490,V
+N,3032,FENOGLIO BEPPE,Un Giorno Di Fuoco,B1_Centrale,101491,V
+N,3033,LEVI PRIMO,Se Questo E' Un Uomo,B1_Centrale,101488,V
+N,3037,ROMANO LALLA,Dall'Ombra,B1_Centrale,101510,V
+N,3038,SETH VIKRAM,Una Musica Costante,B1_Centrale,101509,V
+N,3039,CLAUS HUGO,La Sofferenza Del Belgio,B1_Centrale,101505,V
+N,3040,SVEVO ITALO,Senilita',B1_Centrale,101516,V
+N,3041,WOOLF VIRGINIA,La Signora Dalloway,B1_Centrale,101514,V
+N,3044,BUCK PEARL S.,La Buona Terra,B1_Centrale,101513,V
+N,3046,GINZBURG NATALIA,Caro Michele,B1_Centrale,101507,V
+N,3047,RAMONDINO FABRIZIA,L'Isola Riflessa,B1_Centrale,101508,V
+N,3048,AA.VV.,Le Mille E Una Notte,B1_Centrale,101502,V
+N,3050,MARAI SANDOR,Le Braci,B1_Centrale,101536,V
+N,3051,PEARS IAIN,Il Caso Raffaello,B1_Centrale,101535,V
+N,3052,FITZGERALD FRANCIS SCOTT,Il Grande Gatsby,B1_Centrale,101585,V
+N,3055,SMITH WILBUR,La Montagna Dei Diamanti,B1_Centrale,101642,V
+N,3056,MASTROCOLA PAOLA,La Gallina Volante,B1_Centrale,101643,V
+N,3057,CUSSLER CLIVE,Onda D'Urto,B1_Centrale,101654,V
+N,3061,SGORLON CARLO,Il Processo Di Tolosa,B1_Centrale,101649,V
+N,3070,VANDENBERG PHILIPP,Il Mistero Della Tomba Proibita,B1_Centrale,101659,V
+N,3071,ADAMS STEPHEN,Codice Qumran,B1_Centrale,101661,V
+N,3073,DOSTOEVSKIJ FEDOR,L'Idiota,B1_Centrale,101683,V
+N,3074,DEFOE DANIEL,Le Avventure Di Robinson Crusoe,B1_Centrale,101685,V
+N,3075,LESSING DORIS,Il Sogno Piu' Dolce,B1_Centrale,101676,V
+N,3076,DUMAS ALEXANDRE,Il Conte Di Montecristo,B1_Centrale,101698,V
+N,3077,SIMENON GEORGES,Maigret Va Dal Coroner,B1_Centrale,101682,V
+N,3078,MORAZZONI MARTA,Una Lezione Di Stile,B1_Centrale,101686,V
+N,3079,MANCINELLI LAURA,Andante Con Tenerezza,B1_Centrale,101733,V
+N,3080,KAFKA FRANZ,La Metamorfosi E Altri Racconti,B1_Centrale,101680,V
+N,3082,CAMILLERI ANDREA,La Scomparsa Di Pato',B1_Centrale,101727,V
+N,3084,ORENGO NICO,La Curva Del Latte,B1_Centrale,101734,V
+N,3088,YOSHIMOTO BANANA,Amrita,B1_Centrale,101710,V
+N,3089,HAMSUN KNUT,Pan,B1_Centrale,101688,V
+N,3090,SASSO CHIARA,Dalla Vigna Al Cuore Del Mondo,B1_Centrale,101635,V
+N,3096,GORDON NOAH,Il Medico Di Saragozza,B1_Centrale,101787,V
+N,3102,LAPIERRE DOMINIQUE,Un Dollaro Mille Chilometri,B1_Centrale,101808,V
+N,3103,LUCARELLI CARLO,Misteri D'Italia,B1_Centrale,101828,V
+N,3104,ROTH PHILIP,L'Animale Morente,B1_Centrale,101807,V
+N,3105,CORTI EUGENIO,Il Cavallo Rosso,B1_Centrale,101810,V
+N,3110,SKARMETA ANTONIO,La Bambina E Il Trombone,B1_Centrale,101833,V
+N,3111,HARRIS JOANNE,La Spiaggia Rubata,B1_Centrale,101860,V
+N,3112,MAURENSIG PAOLO,Canone Inverso,B1_Centrale,101858,V
+N,3113,MAGGIANI MAURIZIO,E' Stata Una Vergine,B1_Centrale,101857,V
+N,3114,SEPULVEDA LUIS,Il Vecchio Che Leggeva Romanzi D'Amore,B1_Centrale,101859,V
+N,3115,BOSONETTO MARCO,Nonno Rosenstein Nega Tutto,B1_Centrale,101861,V
+N,3116,KERTESZ IMRE,Essere Senza Destino,B1_Centrale,101847,V
+N,3117,MAZZANTINI MARGARET,Non Ti Muovere,B1_Centrale,101855,V
+N,3118,BIAMONTI FRANCESCO,Le Parole La Notte,B1_Centrale,101851,V
+N,3119,ZUCCONI VITTORIO,Storie Da Non Credere,B1_Centrale,101846,V
+N,3121,FRASSI MASSIMILIANO,I Bambini Delle Fogne Di Bucarest,B1_Centrale,101849,V
+N,3122,BETTINELLI GIORGIO,Brum Brum 254.000 Chilometri In Vespa,B1_Centrale,101856,V
+N,3123,AMMANITI NICOLO',Ti Prendo E Tiporto Via,B1_Centrale,101864,V
+N,3127,SILONE IGNAZIO,L'Avventura D'Un Povero Cristiano,B1_Centrale,101873,V
+N,3128,KING STEPHEN,Il Miglio Verde,B1_Centrale,101876,V
+N,3129,RICHLER MORDECAI,Quest'Anno A Gerusalemme,B1_Centrale,101868,V
+N,3130,DOYLE RODDY,Una Stella Di Nome Henry,B1_Centrale,101866,V
+N,3131,PETTERS ELLIS,Un Cadavere Di Troppo,B1_Centrale,101874,V
+N,3132,STRADA GINO,Buskashi' Viaggio Dentro La Guerra,B1_Centrale,101862,V
+N,3133,GUENON RENE',Il Re Del Mondo,B1_Centrale,101885,V
+N,3159,SCIASCA LEONARDO,Candido Un Sogno Fatto In Sicilia,B1_Centrale,102055,V
+N,3160,PRATOLINI VASCO,Cronache Di Poveri Amanti,B1_Centrale,102052,V
+N,3161,KING STEPHEN,L'Ultimo Cavaliere,B1_Centrale,102035,V
+N,3163,BASHEVIS SINGER ISAAC,La Famiglia Moskat,B1_Centrale,102015,V
+N,3164,TERZANI TIZIANO,Un Altro Giro Di Giostra,B1_Centrale,102046,V
+N,3165,SMITH WILBUR,La Spiaggia Infuocata,B1_Centrale,102036,V
+N,3166,SMITH WILBUR,Il Trionfo Del Sole,B1_Centrale,102026,V
+N,3167,KELLERMAN JONATHAN,Senza Colpa,B1_Centrale,102017,V
+N,3168,KING STEPHEN,Terre Desolate,B1_Centrale,102023,V
+N,3169,KING STEPHEN,Gli Occhi Del Drago,B1_Centrale,102038,V
+N,3170,EVANS NICHOLAS,Insieme Con I Lupi,B1_Centrale,102028,V
+N,3171,KING STEPHEN,Stagioni Diverse,B1_Centrale,102024,V
+N,3174,REVELLI NUTO,Il Mondo Dei Vinti,B1_Centrale,102054,V
+N,3175,POLO MARCO,Il Milione,B1_Centrale,102042,V
+N,3176,HESSE HERMANN,Siddharta,B1_Centrale,102029,V
+N,3177,BACH RICHARD,Il Gabbiano Jonathan Livingston,B1_Centrale,102051,V
+N,3178,CALVINO ITALO,Ultimo Viene Il Corvo,B1_Centrale,102040,V
+N,3179,FENOGLIO BEPPE,La Paga Del Sabato,B1_Centrale,102053,V
+N,3180,SMITH WILBUR,Cacciatori Di Diamanti,B1_Centrale,102016,V
+N,3181,HARRIS ROBERT,Pompei 79 D.C. Venti Ore Alla Catastrofe,B1_Centrale,102014,V
+N,3182,PAVESE CESARE,Paesi Tuoi,B1_Centrale,102059,V
+N,3184,CHRISTIE AGATHA,La Casa Dei Sogni,B1_Centrale,102034,V
+N,3185,SCIASCA LEONARDO,Gli Zii Di Sicilia,B1_Centrale,102022,V
+N,3186,PAVESE CESARE,La Luna E I Falo',B1_Centrale,102035,V
+N,3187,PAVESE CESARE,La Luna E I Falo',B1_Centrale,102043,V
+N,3188,FENOGLIO BEPPE,La Malora,B1_Centrale,102061,V
+N,3189,FENOGLIO BEPPE,La Malora,B1_Centrale,102062,V
+N,3190,BARICCO ALESSANDRO,Novecento,B1_Centrale,102031,V
+N,3193,DE AMICIS EDMONDO,Cuore,B1_Centrale,102044,V
+N,3194,VANDENBERG PHILIPP,Il Mistero Della Tomba Proibita,B1_Centrale,102019,V
+N,3195,FOLLETT KEN,Codice A Zero,B1_Centrale,102045,V
+N,3196,ROBB CANDACE,Il Cavalliere Assassinato,B1_Centrale,102129,V
+N,3197,SEPULVEDA LUIS,I Peggiori Racconti Dei Fratelli Grim,B1_Centrale,102132,V
+N,3198,FALETTI GIORGIO,Niente Di Vero Tranne Gli Occhi,B1_Centrale,102100,V
+N,3199,SHELDON SIDNEY,Una Stella Continua A Brillare,B1_Centrale,102137,V
+N,3285,ABBATE-GOMEZ,I complici,B1_Centrale,NN,V
+N,3288,McEWAN IAN,Chesil beach,B1_Centrale,NN,V
+N,3289,McEWAN IAN,Espiazione,B1_Centrale,NN,V
+N,3292,McEWAN IAN,L'inventore di sogni,B1_Centrale,NN,V
+N,3293,McEWAN IAN,Amsterdam,B1_Centrale,NN,V
+N,3294,McEWAN IAN,Lettera a Berlino,B1_Centrale,NN,V
+N,3295,McEWAN IAN,Sabato,B1_Centrale,NN,V
+N,3296,BALDACCI DAVID,Puro genio,B1_Centrale,NN,V
+N,3298,KLAVAN ANDREW,Inseguendo Amanda,B1_Centrale,NN,V
+N,3300,ARLACCHI PINO,Gli uomini del disonore,B1_Centrale,NN,V
+N,3301,FALCONE GIOVANNI,Cose di cosa nostra,B1_Centrale,NN,V
+N,3302,TARDITI MARIA,L'ultimo della fila,B1_Centrale,NN,V
+N,3303,BORGNA DAVIDE,Le braccia lungo il corpo,B1_Centrale,NN,V
+N,3304,BURZIO ALBERTO,"Pane, terra e montagne",B1_Centrale,NN,V
+N,3305,BURZIO ALBERTO,Il frate esorcista e altre storie di vita,B1_Centrale,NN,V
+N,3306,GIORDANA ROSANGELA,Bastian contrari,B1_Centrale,NN,V
+N,3307,GILIOLI RENATO E ALESSANDRO,"Cattivi capi, cattivi colleghi",B1_Centrale,NN,V
+N,3308,"RAYMOND A., MOODY JR.",L'ultimo sorriso,B1_Centrale,NN,V
+N,3309,SACKS OLIVER,L'uomo che scambio sua moglie per un cappello,B1_Centrale,NN,V
+N,3310,WILSON SION SCOTT,Lezioni di Volo per Sonnambuli,B1_Centrale,NN,V
+N,3311,SWARUP WIKAS,Le Dodici Domande,B1_Centrale,NN,V
+N,3312,RUSSELL GORDON,La notte del Gladiatore,B1_Centrale,NN,V
+N,3313,GHAFOUR HAMIDA,Il paese di Polvere e di vento,B1_Centrale,NN,V
+N,3314,SCIASCIA LEONARDO,Il giorno della Civetta,B1_Centrale,NN,V
+N,3316,BAUCHAU HERRY,Il compagno di Scalata,B1_Centrale,NN,V
+N,3317,SANSON IAN,Che cosa è successo a Mr.Dixon,B1_Centrale,NN,V
+N,3318,LARSSON STIEG,Uomini che odiano le Donne,B1_Centrale,NN,V
+N,3319,LARSSON STIEG,La regina dei Castelli di carta,B1_Centrale,NN,V
+N,3320,LARSSON STIEG,La Ragazza che giocava con il Fuoco,B1_Centrale,NN,V
+N,3321,BARBERY MURIEL,L'eleganza del Riccio,B1_Centrale,NN,V
+N,3322,HANIP MOHAMMED,Il caso dei manghi esplosivi,B1_Centrale,NN,V
+N,3323,ROGER MARIE SABINE,Una Testa Selvatica,B1_Centrale,NN,V
+N,3324,BOYNE JOHN,Il Bambino con il Piagaima a Righe,B1_Centrale,NN,V
+N,3325,JAL EMMANUEL,Figlio della Guerra,B1_Centrale,NN,V
+N,3326,FALETTI GIORGIO,Io sono Dio,B1_Centrale,NN,V
+N,3327,ODIFREDDI P.- VALZANIA S.,La Via Lattea,B1_Centrale,NN,V
+N,3328,AUGIAS - MANCUSO,Disputa su Dio e Dintorni,B1_Centrale,NN,V
+N,3329,INDRIDASON ARNALDUR,Un Corpo nel Lago,B1_Centrale,NN,V
+N,3330,ZAFON C. RUIZ,L'ombra del Vento,B1_Centrale,NN,V
+N,3331,GHOSH AMITAV,Mare di papaveri,B1_Centrale,NN,V
+N,3332,HORNEY NICK,Shekespear sciveva per soldi,B1_Centrale,NN,V
+N,3333,GROSSAMAN DAVID,A un Cerbiatto somiglia il mio amore,B1_Centrale,NN,V
+N,3334,GUEDJ DENIS,La Matematica spiegata alle mie Figlie,B1_Centrale,NN,V
+N,3335,MOORE - GALLOWAY,Eravamo Giovani in Vietnam,B1_Centrale,NN,V
+N,3336,PANSA GIANPAOLO,I tre Inverni della Paura,B1_Centrale,NN,V
+N,3338,BORGES LUIS JORGE,L'Aleph,B1_Centrale,NN,V
+N,3339,GAMBAROTTA BRUNO,Polli per Sempre,B1_Centrale,NN,V
+N,3340,LIDLUM ROBERT,Il Ritorno dello Sciacallo,B1_Centrale,NN,V
+N,3341,NICHOLLIS SALLY,Volevo vivere per Sempre,B1_Centrale,NN,V
+N,3342,CHALANDON SORJ,Il mio Traditore,B1_Centrale,NN,V
+N,3343,JURADO J.G.,La spia di Dio,B1_Centrale,NN,V
+N,3344,KURZEM MARK,Il Bambino senza Nome,B1_Centrale,NN,V
+N,3345,TUROW SCOTT,Presunto Innocente,B1_Centrale,omaggio,V
+N,3346,FOLLETT KEN,Un Luogo Chiamato Libertà,B1_Centrale,omaggio,V
+N,3347,CUSSLER CLIVE,Cyclops,B1_Centrale,omaggio,V
+N,3348,GRISHAM JOHN,La Convocazione,B1_Centrale,omaggio,V
+N,3349,CORNWELL PATRICIA,La Traccia,B1_Centrale,omaggio,V
+N,3350,FALLACI ORIANA,Un Uomo,B1_Centrale,omaggio,V
+N,3351,SATTA SALVATORE,Il Giorno del Giudizio,B1_Centrale,omaggio,V
+N,3352,MASSUCCO RENATO,Miserere a Squarciagola,B1_Centrale,omaggio,V
+N,3355,FAUQUIER DANIEL,Itinerario di un Partigiano Francese,B1_Centrale,omaggio,V
+N,3356,GROSSMANN DAVID,Qualcuno con cui correre,B1_Centrale,102282,V
+N,3357,METHA SUKETU,Maximum City,B1_Centrale,102289,V
+N,3358,CARVER RAYMOND,Il Mestiere di Scrivere,B1_Centrale,102293,V
+N,3359,LUCARELLI CARLO,Un Giorno dopo l'altro,B1_Centrale,102295,V
+N,3360,CALVINO ITALO,Il Visconte Dimezzato,B1_Centrale,102298,V
+N,3361,CAPANNA MARIO,Per Ragionare,B1_Centrale,102299,V
+N,3362,VASSALLI SEBASTIANO,L'Italiano,B1_Centrale,102303,V
+N,3363,LE GUIN URSULA,I Doni,B1_Centrale,102305,V
+N,3364,GROSSMANN DAVID,Ci sono bambini a zig zag,B1_Centrale,102314,V
+N,3365,CALABRESI MARIO,La Fortuna non esiste,B1_Centrale,102317,V
+N,3366,QUENEAU RAYMOND,Esercizi di Stile,B1_Centrale,102318,V
+N,3367,BALDACCI DAVID,Nient'altro che la Verità,B1_Centrale,102328,V
+N,3368,DE CRESCENZO LUCIANO,Ulisse era un Fico,B1_Centrale,omaggio,V
+N,3369,ECO UMBERTO,Il Cimitero di Praga,B1_Centrale,102374,V
+N,3370,EVANS N.,Solo se avrai Coraggio,B1_Centrale,102375,V
+N,3371,FALETTI GIORGIO,Appunti di un Venditore di Donne,B1_Centrale,102376,V
+N,3372,GRAMELLINI MASSIMO,l'Ultima Riga delle Favole,B1_Centrale,102377,V
+N,3374,HARRIS J.,Il Ragazzo con gli Occhi Blu,B1_Centrale,102379,V
+N,3376,MURGIA MICHELA,Accabadora,B1_Centrale,102381,V
+N,3377,TAMA' PATRIZIA,La Quarta Cantica,B1_Centrale,102382,V
+N,3378,PIMENTEL MANUEL,La Rotta delle Carovane,B1_Centrale,omaggio,V
+N,3379,CHANG JUNG,Cigni Selvatici,B1_Centrale,omaggio,V
+N,3380,SCHWARTZ JOHN ,Una Ragazza Comune,B1_Centrale,omaggio,V
+N,3381,HIRST BAMBOO,Blu Cina,B1_Centrale,omaggio,V
+N,3382,WEISBERGER LAUREN,Il Diavolo Veste Prada,B1_Centrale,omaggio,V
+N,3383,HICKMAN KATIE,Il Giardino delle Favorite,B1_Centrale,omaggio,V
+N,3384,FALETTI GIORGIO,Niente di vero tranne gli Occhi,B1_Centrale,omaggio,V
+N,3385,UNDERWOOD JHON,Il Libro segreto si Shakespeare,B1_Centrale,omaggio,V
+N,3386,D'AVENIA ALESSANDRO,Cose che Nessuno sa,B1_Centrale,10840,V
+N,3387,FALETTI GIORGIO,Tre Atti e Due Tempi,B1_Centrale,10836,V
+N,3388,PARIANI LAURA,La Valle delle Donne Lupo,B1_Centrale,10855,V
+N,3389,GARLASCHELLI BARBARA,Non ti Voglio Vicino,B1_Centrale,10844,V
+N,3390,CALABRESI MARIO,Cosa tiene accese le Stelle,B1_Centrale,10851,V
+N,3391,FERRERO ERNESTO,Disegnare il Vento,B1_Centrale,10852,V
+N,3392,PIERACCINI MASSIMILIANO,L'Anomalia,B1_Centrale,10866,V
+N,3393,SCIANNA GIORGIO,Diciotto secondi prima dell' Alba,B1_Centrale,10856,V
+Nr,70,LEVI CARLO,Cristo Si E' Fermato A Eboli,B1_Centrale,1564,V
+Nr,95,CALVINO ITALO,Il Visconte Dimezzato,B1_Centrale,3512,V
+Nr,102,FRANK ANNA,Diario,B1_Centrale,6771,V
+Nr,103,AA.VV.,La Fiaba Dell'Incontro Gorbaciov - Wojtyla,B1_Centrale,8496,V
+Nr,111,PERGAUD L.,Guerra (La) Dei Bottoni,B1_Centrale,10207,V
+Nr,125,MANZONI A.,Promessi (I) Sposi,B1_Centrale,10203,V
+Nr,128,CONAN DOYLE,Tutti I Racconti Fantastici E Dell'Orrore,B1_Centrale,100338,V
+Nr,129,CONAN DOYLE,Tutti I Romanzi Fantastici,B1_Centrale,100338,V
+Nr,130,CONAN DOYLE,Tutti I Romanzi Fantastici,B1_Centrale,100338,V
+Nr,131,LONDON JACK,Il Richiamo Della Foresta Zanna Bianca,B1_Centrale,100339,V
+Nr,132,LONDON JACK,I Raccnti Del Pacifico E Dei Mari Del Sud,B1_Centrale,100339,V
+Nr,133,LONDON JACK,Avventure Di Mare E Di Costa,B1_Centrale,100339,V
+Nr,134,LONDON JACK,I Racconti Del Grande Nord,B1_Centrale,100339,V
+Nr,135,GARFIELD LEON,Le Storie Di William Shakespeare,B1_Centrale,100362,V
+Nr,138,PENNAC DANIEL,L'Occhio Del Lupo,B1_Centrale,100372,V
+Nr,139,CONRAD JOSEPH,Romanzi Della Malesia,B1_Centrale,100446,V
+Nr,140,CONRAD JOSEPH,Romanzi E Racconti D'Avventura Di Etrra E Di Mare,B1_Centrale,100447,V
+Nr,141,POE EDGAR ALLAN,Tutti I Racconti Del Mistero Dell'Incubo E Del Terrore,B1_Centrale,100445,V
+Nr,142,MC CULLOUGH COLLEEN,I Giorni Del Potere,B1_Centrale,100437,V
+Nr,144,TWAIN MARK,Le Avventure Di Huckleberry Finn,B1_Centrale,100435,V
+Nr,145,SHAKESPEARE WILLIAM,Macbeth,B1_Centrale,100682,V
+Nr,146,ROMANO LALLA,La Giovenezza Inventata,B1_Centrale,100683,V
+Nr,147,SILLITOE ALAN,La Solitudine Del Maratoneta,B1_Centrale,101215,V
+Nr,148,BOLL HEINRICH,Opinioni Di Un Clown,B1_Centrale,100680,V
+Nr,149,KAFKA FRANZ,Il Processo,B1_Centrale,100685,V
+Nr,150,CONRAD JOSEPH,Il Compagno Segreto E Altri Racconti,B1_Centrale,100681,V
+Nr,151,MILANI MINO,Romanzo Militare,B1_Centrale,100688,V
+Nr,152,PRODI GIORGIO,Lazzaro,B1_Centrale,100689,V
+Nr,153,NIGRO RAFFAELE,I Fuochi Del Basento,B1_Centrale,100690,V
+Nr,154,PEDERIALI GIUSEPPE,I Ragazzi Di Villa Emma,B1_Centrale,100691,V
+Nr,155,MARSDEN JHON,Il Lungo Silenzio,B1_Centrale,100660,V
+Nr,156,BRECHT BERTOLD,Gli Affari Del Signor Giulio Cesare,B1_Centrale,100636,V
+Nr,157,TUFT GURI,Il Mestiere Di Figlio,B1_Centrale,100662,V
+Nr,158,FOURNIER ALAIN,Il Grande Meaulnes,B1_Centrale,100687,V
+Nr,160,VIOLA VINCENZO,Racconti Dell'Ottocento,B1_Centrale,100957,V
+Nr,161,VIOLA VINCENZO,Poesia Italiana Del Novecento,B1_Centrale,100958,V
+Nr,165,ADAMS RICHARD,La Collina Dei Conigli,B1_Centrale,100911,V
+Nr,166,LONDON JACK,Martin Eden,B1_Centrale,100903,V
+Nr,167,CONAN DOYLE,Il Segno Dei Quattro,B1_Centrale,100929,V
+Nr,168,VIOLA VINCENZO,Racconti Europei Del Novecento,B1_Centrale,100956,V
+Nr,169,LUSSU EMILIO,Un Anno Sull'Altopiano,B1_Centrale,100928,V
+Nr,170,SILONE IGNAZIO,Fontamara,B1_Centrale,100946,V
+Nr,171,SILONE IGNAZIO,Il Segreto Di Luca,B1_Centrale,100932,V
+Nr,174,SCIASCIA LEONARDO,Il Giorno Della Civetta,B1_Centrale,100874,V
+Nr,176,PRATT HUGO,Corto Maltese,B1_Centrale,101025,V
+Nr,178,STEVENSON ROBERT,L'Isola Del Tesoro,B1_Centrale,101027,V
+Nr,179,WRIGHT RICHARD,Ragazzo Negro,B1_Centrale,101026,V
+Nr,180,POE EDGAR ALLAN,Le Avventure Di Gordon Pym,B1_Centrale,101022,V
+Nr,181,ARMELLINI GUIDO,Il Piacere Di Aver Paura,B1_Centrale,101044,V
+Nr,182,CONAN DOYLE,Le Avventure Di Sherlock Holmes,B1_Centrale,101034,V
+Nr,185,MELVILLE HERMAN,Bartleby Lo Scrivano Benito Cereno,B1_Centrale,101031,V
+Nr,187,DE LUCA - PARISI,Racconti Dell'Ottocento E Del Novecento,B1_Centrale,101028,V
+Nr,190,MELVILLE HERMAN,Bartleby Lo Scrivano Benito Cereno,B1_Centrale,101038,V
+Nr,192,LEE HARPER,Il Buio Oltre La Siepe,B1_Centrale,101068,V
+Nr,193,AA.VV.,Spettri Da Ridere,B1_Centrale,101065,V
+Nr,194,LONDON JACK,Il Richiamo Della Foresta Zanna Bianca,B1_Centrale,101192,V
+Nr,195,LUCAS GEORGE,Guerre Stellari,B1_Centrale,101312,V
+Nr,197,SALINGER J.D.,Il Giovane Holden,B1_Centrale,101333,V
+Nr,198,MOLIERE,L'Avaro,B1_Centrale,101373,V
+Nr,201,LUCARELLI CARLO,Mistero In Blu,B1_Centrale,101354,V
+Nr,202,CAMPANILE ACHILLE,Vite Degli Uomini Illustri,B1_Centrale,101353,V
+Nr,203,GOGOL NIKOLAJ,Il Cappotto,B1_Centrale,101346,V
+Nr,204,CONAN DOYLE,Uno Studio In Rosso,B1_Centrale,101343,V
+Nr,205,BULGAKOV MICHAIL,Cuore Di Cane,B1_Centrale,101342,V
+Nr,206,GOGOL NIKOLAJ,Il Naso Il Ritratto,B1_Centrale,101340,V
+Nr,207,PRATOLINI VASCO,Le Ragazze Di Sanfrediano,B1_Centrale,101335,V
+Nr,211,PRATOLINI VASCO,Il Quartiere,B1_Centrale,101384,V
+Nr,212,FERRANDINO GIUSEPPE,Lidia E I Turchi,B1_Centrale,101422,V
+Nr,215,CONRAD JOSEPH,Cuore Di Tenebra,B1_Centrale,101433,V
+Nr,216,POE EDGAR ALLAN,Racconti Del Terrore,B1_Centrale,101478,V
+Nr,218,POTOK CHAIM,Zebra E Altre Storie,B1_Centrale,101486,V
+Nr,219,CONRAD JOSEPH,Cuore Di Tenebra,B1_Centrale,101497,V
+Nr,220,HESSE HERMANN,Demian,B1_Centrale,101500,V
+Nr,223,CONAN DOYLE,Sherlock Holmes,B1_Centrale,101503,V
+Nr,224,BUZZATI DINO,Poema A Fumetti,B1_Centrale,101519,V
+Nr,225,BUZZATI DINO,Sessanta Racconti,B1_Centrale,101512,V
+Nr,226,ASIMOV ISAAC,Tutti I Miei Robot,B1_Centrale,101504,V
+Nr,227,CONAN DOYLE,I Racconti Del Terrore E Del Mistero,B1_Centrale,101517,V
+Nr,228,DE SAINT EXUPERI ANTOINE,Il Piccolo Principe,B1_Centrale,101495,V
+Nr,230,DEAGLIO ENRICO,La Banalita Del Bene,B1_Centrale,101571,V
+Nr,231,PEDERIALI GIUSEPPE,I Ragazzi Di Villa Emma,B1_Centrale,101584,V
+Nr,236,BRIZZI ENRICO,Jack Frzzsciante E' Uscito Dal Gruppo,B1_Centrale,101592,V
+Nr,243,AA.VV.,Parole In Giallo,B1_Centrale,101580,V
+Nr,245,WILDE OSCAR,Il Fantasma Di Canteville,B1_Centrale,101577,V
+Nr,249,CONRAD JOSEPH,Cuore Di Tenebra,B1_Centrale,101566,V
+Nr,250,KIPLING RUDYARD,Kim,B1_Centrale,101565,V
+Nr,253,POE EDGAR ALLAN,Racconti Del Terrore,B1_Centrale,101555,V
+Nr,256,POE EDGAR ALLAN,Racconti Del Mistero,B1_Centrale,101561,V
+Nr,257,FLEISCHER LEONORE,Rain Man L'Uomo Della Pioggia,B1_Centrale,101575,V
+Nr,258,CHRISTIANE F.,Noi Ragazzi Dello Zoo Di Berlino,B1_Centrale,101578,V
+Nr,260,TAMARO SUSANNA,La Testa Fra Le Novole,B1_Centrale,101563,V
+Nr,261,PENNAC DANIEL,Come Un Romanzo,B1_Centrale,101564,V
+Nr,269,MATTSON OLLE,Il Brigantino Tre Gigli,B1_Centrale,101690,V
+Nr,271,ALMOND DAVID,Il Grande Gioco,B1_Centrale,101687,V
+Nr,278,PIUMINI ROBERTO,Il Diavolo Al Mulino,B1_Centrale,101735,V
+Nr,286,LAAS CHRISTA,Emily,B1_Centrale,101689,V
+Nr,287,MILANI MINO,Crespi Jacopo,B1_Centrale,101693,V
+Nr,288,GARAVAGLIA MARIA ADELE,Donne Detective,B1_Centrale,101775,V
+Nr,289,DAVIS LINDSEY,Le Miniere Dell'Imperatore,B1_Centrale,101774,V
+Nr,290,MIGLIETTA FRANCA,Viaggi Tra Le Righe,B1_Centrale,101773,V
+Nr,291,AA.VV.,Stavolta Si Ride,B1_Centrale,101772,V
+Nr,292,GHEZZO DAVIDE,Le Strade Di Domani,B1_Centrale,101771,V
+Nr,293,MANFREDI VALERIO MASSIMO,Chimaira,B1_Centrale,101709,V
+Nr,295,COVATTA GIOBBE,L'Incontinente Bianco,B1_Centrale,101720,V
+Nr,296,PADUANO GUIDO,Aristofane - La Pace,B1_Centrale,101679,V
+Nr,297,GHAZY RANDA,Sognando Palestina,B1_Centrale,101678,V
+Nr,298,AA.VV.,Latifa - Viso Negato,B1_Centrale,101724,V
+Nr,299,MANCINELLI LAURA,I Tre Cavalieri Del Graal,B1_Centrale,101669,V
+Nr,300,GROSSAMAN DAVID,Qualcuno Con Cui Correre,B1_Centrale,101732,V
+Nr,302,FREEMAN MARY ,La Camera A Sud-Ovest,B1_Centrale,101739,V
+Nr,307,MCKINLEY ROBIN,Streghe,B1_Centrale,101725,V
+Nr,310,GIUSTI RENZO,Furto In Classe,B1_Centrale,101701,V
+Nr,311,LASKY KATHRIN,Chimera,B1_Centrale,101728,V
+Nr,312,ENDE MICHAEL,Le Avventure Di Jim Bottone,B1_Centrale,101729,V
+Nr,313,GAUTIER THEOPHILE,Iede Della Mummia,B1_Centrale,101737,V
+Nr,315,LUCARELLI CARLO,Febbre Gialla,B1_Centrale,101742,V
+Nr,319,MORABITO FABIO,Quando Le Pantere Non Erano Nere,B1_Centrale,101711,V
+Nr,320,LEESON ROBERT,Il Bugiardo,B1_Centrale,101719,V
+Nr,322,LEWIS C.S.,La Sedia D'Argento,B1_Centrale,101726,V
+Nr,323,REYES FELIPE BENITEZ,Al Peggio Non C'E' Mai Fine,B1_Centrale,101715,V
+Nr,324,AA.VV.,Ama Me' ! No Me' !,B1_Centrale,101743,V
+Nr,325,MANFREDI VALERIO MASSIMO,L'Ultima Legione,B1_Centrale,101713,V
+Nr,330,ELLEIS DEBORAH,Sotto Il Burqa,B1_Centrale,101802,V
+Nr,332,ROMAGNOLI GABRIELE,Video Cronache,B1_Centrale,101837,V
+Nr,335,KANIUK YORAM,Il Ladro Generoso,B1_Centrale,101832,V
+Nr,336,MANCINELLI LAURA,I Dodici Abati Di Challant,B1_Centrale,101869,V
+Nr,337,BOSONETTO MARCO,Il Sottolineatore Solitario,B1_Centrale,101865,V
+Nr,338,BRIZZI ENRICO,Jack Frusciante E' Uscito Dal Gruppo,B1_Centrale,101871,V
+Nr,340,ROWLING J.K.,Harry Potter E La Camera Dei Segreti,B1_Centrale,102117,V
+Nr,341,ROWLING J.K.,Harry Potter E L'Ordine Della Fenice,B1_Centrale,102134,V
+Nr,342,PAOLINI CHRISTOPHER,Eragon,B1_Centrale,102109,V
+Nr,343,PAOLINI CHRISTOPHER,Eldest,B1_Centrale,102107,V
+Nr,345,BIANCHI PAOLO,La cura dei sogni,B1_Centrale,omaggio,V
+Nr,347,CONAN DOYLE ARTHUR,Uno studio in rosso,B1_Centrale,omaggio,V
+Nr,349,SESSI FREDIANO,Ultima fermata Auscwitz,B1_Centrale,omaggio,V
+Nr,350,MANFREDI VALERIO MASSIMO,Chimaira,B1_Centrale,omaggio,V
+Nr,351,GUEDJ DENIS,Zero o le cinque vite di Aemer,B1_Centrale,102197,V
+Nr,354,GOLDMAN WILLIAM,Magic,B1_Centrale,102241,V
+Nr,355,TAMAGNO BRESCIANI LUISA,Una ragazzina di provincia,B1_Centrale,NN,V
+Nr,357,BORGNA DAVIDE,Per eredità il silenzio,B1_Centrale,NN,V
+Nr,358,ROSA MARITA,Il colore della neve,B1_Centrale,NN,V
+Nr,359,GAY ROMANO,Le inchieste del commisssario Didier,B1_Centrale,NN,V
+Nr,360,GALLO EZIO,La luna di ghiaccio,B1_Centrale,NN,V
+Nr,361,CAINER INES,Senza Patria,B1_Centrale,NN,V
+Nr,362,GUERRA MANUEL,I ragazzi di Monteraspo,B1_Centrale,NN,V
+Nr,363,ROSA MARITA,La casa in tasca,B1_Centrale,NN,V
+Nr,364,LELE VIOLA,Paese - Una storia da raccontare,B1_Centrale,NN,V
+Nr,365,LELE VIOLA,Verso  il sole al tramonto,B1_Centrale,NN,V
+Nr,366,DOVIO BARET MARIA,Una baita nel cuore,B1_Centrale,NN,V
+Nr,367,CORDERO MARIO,Pasqualina,B1_Centrale,NN,V
+Nr,368,VIOLA LELE,Pellegrino a pedali,B1_Centrale,NN,V
+Nr,369,SIGNETTI DONATELLA,Vi parlo da qui,B1_Centrale,NN,V
+Nr,370,LU RURE,I sarvanot dal toumpi,B1_Centrale,NN,V
+Nr,371,FERRERO ANTONIO,Cinema e fumetto,B1_Centrale,NN,V
+Nr,374,DA ROTTERDAM ERASMO,Dolce è la guerra a chi non l'ha provata,B1_Centrale,NN,V
+Nr,375,LE CARRE' JOHN,La Spia Perfetta,B1_Centrale,omaggio,V
+Nr,376,LUDLUM ROBERT,Doppio Inganno,B1_Centrale,omaggio,V
+Nr,377,REED BARRY,Il Verdetto,B1_Centrale,omaggio,V
+Nr,378,LE CARRE' JOHN,L'Onorevole Scolaro,B1_Centrale,omaggio,V
+Nr,381,FOLLETT KEN,Codice a Zero,B1_Centrale,omaggio,V
+Nr,382,GEORGE ELIZABETH,Il Morso del Serpente,B1_Centrale,omaggio,V
+Nr,383,GRISHAM JOHN,I Confratelli,B1_Centrale,omaggio,V
+Nr,384,GRISHAM JOHN,Il Re dei Torti,B1_Centrale,omaggio,V
+Nr,385,JAMES P.D.,Sangue Innocente,B1_Centrale,omaggio,V
+Nr,386,ESPOSITO LA ROSSA ROSARIO,Libera Voce speranze dei ragazzi di Napoli,B1_Centrale,102280,V
+Nr,388,ANGELA PIERO,La Macchima per Pensare,B1_Centrale,omaggio,V
+Nr,389,ANGELA PIERO,La Vasca di Archimede,B1_Centrale,omaggio,V
+Nr,390,ANGELA PIERO,Nel Buio degli Anni Luce,B1_Centrale,omaggio,V
+Nr,391,ANGELA PIERO,Viaggi nella Scienza,B1_Centrale,omaggio,V
+Nr,397,BACCOLO LUIGI,Il Signor Conte non Riceve,B1_Centrale,omaggio,V
+Nr,407,FALCO GIORGIO,L'ubicazione del bene,B1_Centrale,102283,V
+Nr,409,DEL PONTE GIOVANNI,Acqua Tagliente,B1_Centrale,102285,V
+Nr,410,SALINGER J.D.,Il Giovane Holden,B1_Centrale,102286,V
+Nr,411,MING WU,Cinquantaquattro 54,B1_Centrale,102287,V
+Nr,412,ABATE FRANCESCO,Così si Dice,B1_Centrale,102288,V
+Nr,413,SITI WALTER,Troppi Paradisi,B1_Centrale,102290,V
+Nr,414,MATAR HISHAM,Nessuno al Mondo,B1_Centrale,102291,V
+Nr,415,SHULMAN ALIX KATES,Memorie di una Reginetta di Provincia,B1_Centrale,102292,V
+Nr,416,OSSORIO - ZOUNGRANA,Se entri nel cerchio sei libero,B1_Centrale,102294,V
+Nr,417,ALMOND DAVID,Skellig,B1_Centrale,102296,V
+Nr,418,BALLIETT BLUE,Vermeeer e il codice segreto,B1_Centrale,102297,V
+Nr,419,SELZNICK BRIAN,La straodinaria invenzione di Hugo Cabret,B1_Centrale,102300,V
+Nr,420,BUNKER EDWARD,Stark,B1_Centrale,102301,V
+Nr,422,SONNENBLICK JORDAN,Una Chitarra per due,B1_Centrale,102304,V
+Nr,423,SOLINO GIANNI,Ragazzi della terra di nessuno,B1_Centrale,102306,V
+Nr,424,SGARDOLI GUIDOLI,"JJ, contro il vento. Un pellerossa del nostro tempo",B1_Centrale,102307,V
+Nr,426,MURAIL MARIE-AUDE,Mio fratello Simple,B1_Centrale,102309,V
+Nr,427,ENZENSBERGER,Esterazy storia di un Coniglio,B1_Centrale,102310,V
+Nr,428,RODMAN PHILBRICK,Basta guardare il cielo,B1_Centrale,102311,V
+Nr,429,BONDOUX ANNE- LAURE,Le lacrime dell'assassino,B1_Centrale,102312,V
+Nr,430,ELMORE LEONARD,Tutti i Racconti Western,B1_Centrale,102313,V
+Nr,431,LE GUIN URSULA,Agata e la pietra nera,B1_Centrale,102315,V
+Nr,432,CROSIO OLIVIA,Solo in città,B1_Centrale,102316,V
+Nr,433,LUCARELLI CARLO,Il Giorno del lupo,B1_Centrale,102319,V
+Nr,434,MACCHIAVELLI LORIANO,Sarti Antonio - Un Diavolo per Capello,B1_Centrale,102320,V
+Nr,435,BALDINI ERALDO,Come il Lupo,B1_Centrale,102321,V
+Nr,437,MURAIL MARIE-AUDE,Oh Boy,B1_Centrale,102323,V
+Nr,438,BEN JELLOUN TAHAR,Il Libro del Buio,B1_Centrale,102324,V
+Nr,439,TOGNOLINI BRUNO,Lunamoonda,B1_Centrale,102325,V
+Nr,440,MC CAUGHREAN GERALDINE,Non sarà la fine del mondo,B1_Centrale,102326,V
+Nr,446,CACUCCI PINO,San Isidro Futbol,B1_Centrale,omaggio,V
+Nr,450,GEDA FABIO,Nel Mare ci sono i Coccodrilli,B1_Centrale,102386,V
+Nr,452,MURATORI LETIZIA,Sole senza Nessuno,B1_Centrale,102388,V
+Nr,453,NUCCI GIOVANNI,E Fonderai la più Grande Città del Mondo,B1_Centrale,102389,V
+Nr,455,SGARDOLI GUIDO,O sei Dentro o sei Fuori,B1_Centrale,102391,V
+Nr,456,TADDIA FEDERICO,Perché siamo Parenti delle Galline,B1_Centrale,102392,V
+Nr,457,AMMANITI NICCOLO',Io e Te,B1_Centrale,omaggio,V
+Nr,458,LAMBERTO ALDO,Sesso E' gli Adolescenti e il sesso,B1_Centrale,omaggio,V
+Nr,459,LERDA MICHELE,Abujon non cadrà,B1_Centrale,omaggio,V
+Nr,460,TRESSO MARIA,Racconti Arabi,B1_Centrale,omaggio,V
+Nr,461,FROLA Elisabetta,Racconti dell' America Latina,B1_Centrale,omaggio,V
+Nr,462,ZECCHI STEFANO,Amata per Caso,B1_Centrale,omaggio,V
+Nr,463,KENEALLY THOMAS,La Lista di Schindler,B1_Centrale,omaggio,V
+Nr,464,SMITH WILBUR,Come il Mare,B1_Centrale,omaggio,V
+Nr,465,SMITH WILBUR,La Notte del Leopardo,B1_Centrale,omaggio,V
+Nr,467,AA.VV.,Racconti Italiani dell'Ottocento,B1_Centrale,omaggio,V
+Nr,468,HESSE HERMANN,Leggende e Fiabe,B1_Centrale,omaggio,V
+Nr,469,VAZQUEZ MANUEL,Il Centravanti è stato assassinato,B1_Centrale,omaggio,V
+Nr,470,GAIST VILMA,Leggere d'Amicizia,B1_Centrale,omaggio,V
+Nr,471,PIRANDELLO LUIGI,Novelle Fantastiche,B1_Centrale,omaggio,V
+Nr,472,CONAN DOYLE ARTHUR,Il Mastino dei Baskerville,B1_Centrale,omaggio,V
+Nr,473,ISAIA ADALGISA,Magistra Elva 1954-1955,B1_Centrale,omaggio,V
+Nr,474,STEVENSON ROBERT LOUIS,Dottor Jekyll e Signor Hyde,B1_Centrale,omaggio,V
+Nr,476,FERRARA ANTONIO,Batti il Muro,B1_Centrale,10837,V
+Nr,477,PUGNO LAURA,Antardite,B1_Centrale,10838,V
+Nr,478,CULICCHIA GIUSEPPE,Areni Inganni,B1_Centrale,10845,V
+Nr,479,GIONO JEAN,Il Bambino che sognava l'Infinito,B1_Centrale,10847,V
+Nr,480,GIONO JEAN,L'Uomo che piantava gli Alberi,B1_Centrale,10849,V
+Nr,481,ARPAIA BRUNO,L'Energia del Vuoto,B1_Centrale,10850,V
+Nr,482,SCARAMUZZINO GIORGIO,La (S)Fortuna di Ganda,B1_Centrale,10853,V
+Nr,483,INNOCENTI R.- ZEE R.V.,La storia di Erika,B1_Centrale,10859,V
+Nr,484,KHADRA YASMINA,l'Attentatrice,B1_Centrale,10861,V
+Nr,485,KHADRA YASMINA,Le Rondini di Kabul,B1_Centrale,10862,V
+Nr,486,KHADRA YASMINA,Le Sirene Baghdad,B1_Centrale,10863,V
+Nr,487,IBRAHIMOVIC ZLATAN,"Io, Ibra",B1_Centrale,10864,V
+Nr,489,NAGAI GO,La Divina Commedia vol I Inferno,B1_Centrale,10888,V
+Nr,490,NAGAI GO,La Divina Commedia vol II Inferno,B1_Centrale,10889,V
+Nr,491,NAGAI GO,La Divina Commedia vol III Purga_Parad,B1_Centrale,10890,V
+Nr,492,ROSSI-NUKE,Francesco Petrarca,B1_Centrale,10891,V
+Nr,493,PIRANDELLO LUIGI,Novelle Scelte,B1_Centrale,10892,V
+Nr,494,VERGA GIOVANNI,I Malavoglia,B1_Centrale,10893,V
+Nr,496,DE CERVANTES MIGUEL,Don Chisciotte della Mancia,B1_Centrale,10895,V
+Nr,497,SHAKESPEARE WILLIAM,Le più Belle Opere,B1_Centrale,10896,V
+Nr,499,MANZONI ALESSANDRO,I Promessi Sposi a Fumetti,B1_Centrale,10898,V
+Nr,500,MANZONI ALESSANDRO,I Promessi Sposi ,B1_Centrale,10899,V
+Nr,501,ALIGHIERI DANTE,La Divina Commedia,B1_Centrale,10900,V
+Nr,502,MAZZAFERRO ALESSANDRO,La Storia di Odisseo,B1_Centrale,10901,V
+Nr,503,VERGA GIOVANNI,Rosso Malpelo e altre Novelle,B1_Centrale,10902,V
+Nr,504,PAPESCHI MARCELLA,Sulle Tracce della Grande Guerra,B1_Centrale,10903,V
