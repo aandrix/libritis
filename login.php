@@ -1,7 +1,13 @@
 <!doctype html>
 <html lang="en">
   <head>
-  	<title>Login 10</title>
+
+	<?php
+		session_start();
+		session_unset();
+		session_destroy();
+	?>
+  	<title>login libritis</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -17,19 +23,19 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-6 text-center mb-5">
-					<h2 class="heading-section">Immobiliare gano</h2>
+					<h2 class="heading-section">bibblioteca</h2>
 				</div>
 			</div>
 			<div class="row justify-content-center">
 				<div class="col-md-6 col-lg-4">
 					<div class="login-wrap p-0">
 		      	<h3 class="mb-4 text-center">accedi qui !</h3>
-		      	<form action="./app.py" class="signin-form" method="post">
+		      	<form action="./php/logincheck.php" method="POST"class="signin-form">
 		      		<div class="form-group">
-		      			<input type="text" class="form-control" placeholder="Username" name="username" id="username" required>
+		      			<input type="text" class="form-control" placeholder="Username" name="user" id="user" required>
 		      		</div>
 	            <div class="form-group">
-	              <input id="password-field" type="text" class="form-control" placeholder="Password" name="password" id="password" required>
+	              <input id="password-field" type="text" class="form-control" placeholder="Password" name="psw" id="psw" required>
 	              <span toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></span>
 	            </div>
 	            <div class="form-group">
