@@ -22,18 +22,16 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-md-6 text-center mb-5">
-					<h2 class="heading-section">Prenota il ritiro</h2>
+					<h2 class="heading-section">libro disponibile, quando vuoi ritirarlo? </h2>
 				</div>
 			</div>
 			<div class="row justify-content-center">
 				
-		      	<form action="./confermaRitiro.php" method="POST"class="signin-form">
-		      		<div class="form-group">
-		      			<input type="date" class="form-control" placeholder="Date" name="data" id="data" required>
-		      		</div>
+		      	<form action="prenotato.php" method="POST"class="signin-form">
+		      		
 	            
 	            <div class="form-group">
-	            	<button type="submit" class="form-control btn btn-primary submit px-3">prenota</button>
+	            	<button type="submit" class="form-control btn btn-primary submit px-3">torna al catalogo</button>
 	            </div>
 	            <div class="form-group d-md-flex">
 	            	

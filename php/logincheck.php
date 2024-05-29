@@ -1,30 +1,31 @@
 <?php
-//con il require riporto il codice di connessione ad DB
+session_start();
 require("../conf/db_config.php");
 
-//PROCEDURA ESEGUIRE QUERY (rimando al materiale presente su classroom)
-$stmt = $conn->prepare("SELECT * FROM utenti WHERE user = ? AND psw = ?");
+$stmt = $conn->prepare("SELECT * FROM credenziali_utenti WHERE Email = ? AND Password = ?");
 $stmt->bind_param("ss", $_POST['user'], $_POST['psw']);
 $stmt->execute();
 
-//Salvo i dati della query: lavoro su una SINGOLA RIGA
 $result = $stmt->get_result();
 $row = $result->fetch_assoc();
 
-//chiudo la connessione
 $conn->close();
 
-if (($_POST['user']==$row['user'])&&($_POST['psw']==$row['psw'])){
-    /*se il login è corretto rimanda alla pagina HOME salvando nella SESSION i dati principali dell'utente*/
-    session_start();
-    $_SESSION['login']='ok';
-    $_SESSION['nome']=$row['nome'];
-    $_SESSION['cognome']=$row['cognome'];    
-    header("location: ../home.php");
-}else{
-    //rimando alla pagina del FORM di login una variabile "msg" che verrà letto in
-    //$_GET[] per stampare l'errore nella index.php
-    header("location: ../index.php?msg=ERR_ACCESSO");
+if (!$row) {
+    $_SESSION['error'] = "Email o password non corretti";
+    header("location: ../login.php");
+    exit();
+} else {
+    if ($_POST['user'] == $row['Email'] && $_POST['psw'] == $row['Password']) {
+        $_SESSION['login'] = 'ok';
+        $_SESSION['email'] = $row['Email'];
+        $_SESSION['password'] = $row['Password'];
+        header("location: ../catalogo.php");
+        exit();
+    } else {
+        $_SESSION['error'] = "Email o password non corretti";
+        header("location: ../login.php");
+        exit();
+    }
 }
-
 ?>

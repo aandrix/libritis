@@ -39,15 +39,14 @@ https://templatemo.com/tm-569-edu-meeting
               <div class="col-12">
                   <nav class="main-nav">
                       <!-- ***** Logo Start ***** -->
-                      <a href="index.html" class="logo">
+                      <a href="home.php" class="logo">
                           BIBLIOTITIS
                       </a>
                       <!-- ***** Logo End ***** -->
                       <!-- ***** Menu Start ***** -->
                       <ul class="nav">
-                        <li><a href="home2.html" >home</a></li>
-                          
-                          <li><a class="active">catalogo</a></li>
+                          <li class="scroll-to-section" class="active"><a href="#top" class="active">Home</a></li>
+                          <li><a href="catalogo.php">catalogo</a></li>
                           <li class="scroll-to-section"><a href="#apply">area personale</a></li>
                       </ul>        
                       <a class='menu-trigger'>
@@ -74,7 +73,7 @@ https://templatemo.com/tm-569-edu-meeting
               <div class="col-lg-12">
                 <div class="caption">
               <h6>biblioteca</h6>
-              <h2>benvenuti nel catalogo della bibblioteca itis mario delpozzo </h2>
+              <h2>benvenuti nella biblioteca itis mario delpozzo </h2>
              <div class="main-button-red">
                   <div class="scroll-to-section"><a href="#contact">registrati</a></div>
               </div>
@@ -86,94 +85,52 @@ https://templatemo.com/tm-569-edu-meeting
   </section>
   <!-- ***** Main Banner Area End ***** -->
  
-
-
-  </section>
-  <section class="upcoming-meetings" id="meetings">
+  <section class="services">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <div class="section-heading">
-            <h2>libri disponibili</h2>
-          </div>
-        </div>
-       
-        <div class="col-lg-12">
-          <div class="row">
-
-            <div class="col-lg-4">
-              <div class="meeting-item">
-                <div class="thumb">
-                 
-                    <a href="login.php"></a><img src="ilgiovaneholden.jpg" alt="New Lecturer Meeting"></a>
-                </div>
-                <div class="down-content">
-                  
-                  
-                  <a href="prenota.php=?id_libro"><h4>il giovane holden</h4></a>
-                  <p>romanzo di fomazione</p>
-                </div>
+          <div class="owl-service-item owl-carousel">
+          
+            <div class="item">
+              <div class="icon">
+                <img src="assets/images/service-icon-01.png" alt="">
+              </div>
+              <div class="down-content">
+                <h4>CONTROLLA PRESTITO</h4>
+                <p>sezione che ti permette di controllare la scadenza del prestito</p>
               </div>
             </div>
-
-
-            <div class="col-lg-4">
-                <div class="meeting-item">
-                  <div class="thumb">
-                   
-                    <a href="login.php"></a><img src="guerraepace.jpg" alt="New Lecturer Meeting"></a>
-                  </div>
-                  <div class="down-content">
-                    
-                   
-                    <a href="prenota.php=?id_libro"><h4>guerraepace</h4></a>
-                    <p>romanzo epico</p>
-                  </div>
-                </div>
+            
+            <div class="item">
+              <div class="icon">
+                <img src="assets/images/service-icon-02.png" alt="">
               </div>
-
-
-              <div class="col-lg-4">
-                <div class="meeting-item">
-                  <div class="thumb">
-                   
-                      <a href="login.php"></a><img src="trattatosullatolleranza.jpg" alt="New Lecturer Meeting"></a>
-                  </div>
-                  <div class="down-content">
-                    
-                    
-                    <a href="prenota.php=?id_libro"><h4>Trattato Sulla Tolleranza</h4></a>
-                    <p>saggio</p>
-                  </div>
-                </div>
-
-
+              <div class="down-content">
+                <h4>ORGANIZZA UNA RESTITUZIONE</h4>
+                <p>permette di prenotare il giorno per la restituzione di un libro </p>
               </div>
-              <div class="col-lg-4">
-                <div class="meeting-item">
-                  <div class="thumb">
-                   
-                      <a href="login.php"></a><img src="letteraaunbambinomainato.jpg" alt="New Lecturer Meeting"></a>
-                  </div>
-                  <div class="down-content">
-
-                    
-                    
-                    <a href="prenota.php=?id_libro"><h4>Lettera a un bambino mai nato</h4></a>
-                    <p>saggio</p>
-                  </div>
-                </div>
+            </div>
+            
+            <div class="item">
+              <div class="icon">
+                <img src="assets/images/service-icon-03.png" alt="">
               </div>
-
-
-
-
-       
+              <div class="down-content">
+                <h4>CONTROLLA IL CATALOGO</h4>
+                <p>permette di visualizzare la disponibilità dei libri</p>
+              </div>
+            </div>
+            
+            
+            
           </div>
         </div>
       </div>
     </div>
   </section>
+  <section class="upcoming-meetings" id="meetings"></section>
+
+ 
 
 
 
